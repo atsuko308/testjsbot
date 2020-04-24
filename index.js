@@ -3,7 +3,7 @@ const client = new Discord.Client();
 var prefix = ">";
 console.log("Pret à raid !")
 
-client.login("Njk0OTkzMzU5MDcyMTMzMTQx.XoWoJw.24HNDoVNNyjg9wlvc3JJARWQilY")
+client.login("Njk0OTkzMzU5MDcyMTMzMTQx.XqNKJw.MpXt4LbJQ7U4OjwSGY9pMNbjhTc")
 
 client.on("message", message =>{
 	if(!message.guild) return
